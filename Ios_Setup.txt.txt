@@ -1,0 +1,4 @@
+https://rnfirebase.io/
+https://rnfirebase.io/firestore/usage
+
+https://medium.com/@mr.kashif.samman/implementing-a-background-task-in-a-react-native-application-such-as-a-long-running-api-call-or-a-f75c0c62232c
